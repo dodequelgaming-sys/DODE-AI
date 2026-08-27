@@ -1,0 +1,6 @@
+{
+  "name": "DODE AI",
+  "description": "Ultra-fast neon AI assistant powered by Gemini with live world search, voice interaction, 3D interactive core, and AI image generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
